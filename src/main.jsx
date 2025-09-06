@@ -68,6 +68,10 @@ export const App = () => {
 			description: 'o kurwa, ale turbo śmieszność',
 		},
 		{
+			title: 'XDDD',
+			description: 'beka w cholerę, leje ze śmiechu',
+		},
+		{
 			title: 'xDDD',
 			description: 'śmieszniejsze niż "xD", ale mniej śmieszne od "XDDDD"',
 		},
